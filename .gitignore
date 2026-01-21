@@ -1,0 +1,20 @@
+# Java build outputs
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
